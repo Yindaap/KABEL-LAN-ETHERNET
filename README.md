@@ -1,6 +1,9 @@
 # KABEL-LAN-ETHERNET
 Praktikum Jaringan Komputer
 
+NAMA : RINDA AMBARWATI PUTRI
+NIM : 09030582226015
+
                                    LAPORAN PRAKTIKUM JARINGAN KOMPUTER
                                               KABEL LAN
                                               
